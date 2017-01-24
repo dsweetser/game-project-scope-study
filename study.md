@@ -28,3 +28,23 @@ You may want to submit pictures for your wireframes and/or user stories.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 has instructions to link to a picture you've uploaded to a service like [Imgur]
 (http://imgur.com/).
+
+- http://i.imgur.com/QAzeDel.jpg
+- I'm planning on storing the data in an array
+- similar to the the way we created the cards in fundamentals, I intend to render
+  each block in JS and have clicks assign values to the blocks and to the array
+- I plan to work in small chunks, starting with basic layout, then authentication,
+  and finally finish with the JS logic.
+- User Stories:
+    I will be able to log in and see my user history
+    I will be able to click on boxes and change their values
+    I will be able to play against friends
+    I will experience the thrill of the draw
+- I will keep my code modular by writing in it a series of small, interconnected
+  files that each cover a specific part of the project.
+- I'm rather partial to plaid, and given that tic tac toe is a grid I plan on
+  giving it a plaid theme, with plaid backgrounds to the page and the X and O's.
+- I will use git to commit changes frequently so that I can double back when I
+  inevitably break something.
+- I'm not currently planning any bonuses, but if I finish with any time to spare
+  I will absolutely look into them.
